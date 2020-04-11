@@ -6,5 +6,5 @@
   <project name="TronFlyn/vendor_xiaomi" path="vendor/xiaomi" remote="github" revision="lineage-17.1" />
   <project name="TronFlyn/vendor_apps_OPScreenRecord" path="vendor/apps/OPScreenRecord" remote="github" revision="10" />
   <project name="TronFlyn/vendor_apps_MiuiCamera" path="vendor/apps/MiuiCamera" remote="github" revision="10" />
-  <project name="kdrag0n/proton-clang" path="prebuilts/clang/host/linux-x86/clang-proton" remote="github" revision="master" />
+  <project name="crdroidmod/android_prebuilts_clang_host_linux-x86_clang-6364210" path="prebuilts/clang/host/linux-x86/clang-6364210" remote="github" revision="10.0" />
 </manifest>
