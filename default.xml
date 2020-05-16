@@ -2,14 +2,13 @@
 <manifest>
 
   <remote  name="github"
-           fetch=".."
-           review="review.lineageos.org" />
+           fetch="https://hub.fastgit.org/" />
 
   <remote  name="private"
            fetch="ssh://git@github.com" />
 
   <remote  name="aosp"
-           fetch="https://android.googlesource.com"
+           fetch="https://mirrors.tuna.tsinghua.edu.cn/git/AOSP"
            review="android-review.googlesource.com"
            revision="refs/tags/android-10.0.0_r35" />
 
@@ -19,7 +18,7 @@
            sync-j="4" />
 
   <remote  name="crdroid"
-           fetch="https://github.com/"
+           fetch="https://hub.fastgit.org/"
            sync-c="true"
            sync-j="4"
            revision="refs/heads/10.0" />
@@ -28,7 +27,7 @@
            fetch = "https://bitbucket.org/" />
 
   <remote  name="caf"
-           fetch="git://codeaurora.org/quic/la" />
+           fetch="https://source.codeaurora.cn/quic/la" />
 
   <!-- AOSP Projects -->
 

@@ -36,7 +36,7 @@ $ mkdir crDroid
 $ cd crDroid
 
 # Install Repo in the created directory
-$ repo init -u git://github.com/crdroidandroid/android.git -b 10.0
+$ repo init -u git://github.com/TronFlyn/crDroid.git -b 10-cn
 ```
 
 This is what you will run each time you want to pull in upstream changes. Keep in mind that on your
